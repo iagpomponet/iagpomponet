@@ -2,7 +2,7 @@
 
 * Currently working at @cornershop as a Frontend Engineer
 * Currently reading the SICP book
-* Interested in learning about developing DeFi Apps
+* Currently learning about building DeFi Apps
 * Experience in e-commerce development
 
 
